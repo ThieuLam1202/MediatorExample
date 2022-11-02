@@ -1,0 +1,15 @@
+C:\Users\lam12\Desktop\MediatorExample\bin\Debug\net6.0\MediatorExample.exe
+C:\Users\lam12\Desktop\MediatorExample\bin\Debug\net6.0\MediatorExample.deps.json
+C:\Users\lam12\Desktop\MediatorExample\bin\Debug\net6.0\MediatorExample.runtimeconfig.json
+C:\Users\lam12\Desktop\MediatorExample\bin\Debug\net6.0\MediatorExample.dll
+C:\Users\lam12\Desktop\MediatorExample\bin\Debug\net6.0\MediatorExample.pdb
+C:\Users\lam12\Desktop\MediatorExample\obj\Debug\net6.0\MediatorExample.csproj.AssemblyReference.cache
+C:\Users\lam12\Desktop\MediatorExample\obj\Debug\net6.0\MediatorExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lam12\Desktop\MediatorExample\obj\Debug\net6.0\MediatorExample.AssemblyInfoInputs.cache
+C:\Users\lam12\Desktop\MediatorExample\obj\Debug\net6.0\MediatorExample.AssemblyInfo.cs
+C:\Users\lam12\Desktop\MediatorExample\obj\Debug\net6.0\MediatorExample.csproj.CoreCompileInputs.cache
+C:\Users\lam12\Desktop\MediatorExample\obj\Debug\net6.0\MediatorExample.dll
+C:\Users\lam12\Desktop\MediatorExample\obj\Debug\net6.0\refint\MediatorExample.dll
+C:\Users\lam12\Desktop\MediatorExample\obj\Debug\net6.0\MediatorExample.pdb
+C:\Users\lam12\Desktop\MediatorExample\obj\Debug\net6.0\MediatorExample.genruntimeconfig.cache
+C:\Users\lam12\Desktop\MediatorExample\obj\Debug\net6.0\ref\MediatorExample.dll
